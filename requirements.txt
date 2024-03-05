@@ -6,4 +6,4 @@
 wheel
 
 ##
-Django==2.2
+Django==3.2
