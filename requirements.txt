@@ -1,0 +1,9 @@
+##
+## packages : managed by pip
+##
+
+##
+wheel
+
+##
+Django==2.2
