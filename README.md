@@ -11,10 +11,19 @@ packages : managed by pip
 
 ## Django 2.2
 
-* mysite_2_2
+* mysite2_2/
 
 ### ref
 
 * https://docs.djangoproject.com/ja/2.2/intro/tutorial01/
+* https://docs.djangoproject.com/ja/2.2/intro/tutorial02/
 
 
+## Django 3.2
+
+* mysite3_2/
+
+### ref
+
+* https://docs.djangoproject.com/ja/3.2/intro/tutorial01/
+* https://docs.djangoproject.com/ja/3.2/intro/tutorial02/
